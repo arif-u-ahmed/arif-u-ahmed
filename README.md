@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Arif. 👋
 
-<!--
-**arif-u-ahmed/arif-u-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+I'm a computer science student at Drexel University with a deep interest in software engineering, systems design, and applied AI. I enjoy working on projects that combine technical precision with creativity — from backend development to interactive applications. My goal is to design efficient, scalable, and meaningful systems that have a lasting impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m Working On
+- Building projects that explore the intersection of AI and software engineering
+- Expanding my understanding of distributed systems and domain-driven design
+- Contributing to open-source tools and developer communities
+
+---
+
+## Connect With Me
+- **GitHub:** [github.com/arif-u-ahmed](https://github.com/arif-u-ahmed)
+- **LinkedIn:** [linkedin.com/in/arif-ahmed-19121130a](https://www.linkedin.com/in/arif-ahmed-19121130a)
