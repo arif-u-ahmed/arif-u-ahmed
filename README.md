@@ -16,4 +16,4 @@ I'm a computer science student at Drexel University with a deep interest in soft
 
 ## Connect With Me
 - **GitHub:** [github.com/arif-u-ahmed](https://github.com/arif-u-ahmed)
-- **LinkedIn:** [linkedin.com/in/arif-ahmed-19121130a](https://www.linkedin.com/in/arif-ahmed-19121130a)
+- **LinkedIn:** [linkedin.com/in/arif-u-ahmed](https://www.linkedin.com/in/arif-u-ahmed)
